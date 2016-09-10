@@ -7,7 +7,7 @@
 # BuildArtifacts folder
 [Bb]uildArtifacts/
 *.nupkg
-
+*.project.lock.json
 # mstest test results
 TestResults
 
